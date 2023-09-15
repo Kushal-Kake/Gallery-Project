@@ -1,0 +1,11 @@
+.title {
+    font-size: 40px;
+}
+
+div.form-container input {
+    border-radius: 10px;
+}
+
+.imgStyle {
+    margin-bottom: 5px;
+}
